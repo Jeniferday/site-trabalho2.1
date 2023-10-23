@@ -1,5 +1,5 @@
 body{
-    text-align: left;
+    text-align: center;
     color: rgb(0, 0, 0);
     background-color: rgb(160, 160, 252);
 }
@@ -23,7 +23,7 @@ html, body {
 
   .wrap {
     height: 100%;
-    display: none;
+    display: flex;
     align-items: center;
     justify-content: center;
   }
@@ -103,3 +103,4 @@ html, body {
       opacity: 0;
     }
   }
+
